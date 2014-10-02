@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1412168827 source:/home/student/Desktop/liczby_szesnastkowe/main.cpp
+	<iostream>
+	<fstream>
+
+1412179093 source:/home/pio/Pulpit/liczby_szesnastkowe/main.cpp
+	<iostream>
+	<fstream>
+
